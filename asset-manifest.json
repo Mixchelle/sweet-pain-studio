@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/sweet-pain-studio/static/css/main.25447df1.css",
+    "main.js": "/sweet-pain-studio/static/js/main.74b1ec9a.js",
+    "static/js/787.2f27cb40.chunk.js": "/sweet-pain-studio/static/js/787.2f27cb40.chunk.js",
+    "static/media/tattoo-3.jpeg": "/sweet-pain-studio/static/media/tattoo-3.fe737998d43d209da1be.jpeg",
+    "static/media/tattoo-1.jpeg": "/sweet-pain-studio/static/media/tattoo-1.0bb1bad54eb40f4902e0.jpeg",
+    "static/media/tattoo-6.jpeg": "/sweet-pain-studio/static/media/tattoo-6.9d0020f446128116450b.jpeg",
+    "static/media/tattoo-5.jpeg": "/sweet-pain-studio/static/media/tattoo-5.5ea92f7cef9d29f2faab.jpeg",
+    "static/media/tattoo-4.jpeg": "/sweet-pain-studio/static/media/tattoo-4.82eec5e57165b3ff4b01.jpeg",
+    "static/media/tattoo-2.jpeg": "/sweet-pain-studio/static/media/tattoo-2.8e4e312fe4647504c9b0.jpeg",
+    "static/media/profile.jpeg": "/sweet-pain-studio/static/media/profile.e01fda357893876b4166.jpeg",
+    "static/media/5692282.png": "/sweet-pain-studio/static/media/5692282.dbf34dd5b375748e9c40.png",
+    "static/media/art.png": "/sweet-pain-studio/static/media/art.690e94218f4838ecf1df.png",
+    "index.html": "/sweet-pain-studio/index.html",
+    "main.25447df1.css.map": "/sweet-pain-studio/static/css/main.25447df1.css.map",
+    "main.74b1ec9a.js.map": "/sweet-pain-studio/static/js/main.74b1ec9a.js.map",
+    "787.2f27cb40.chunk.js.map": "/sweet-pain-studio/static/js/787.2f27cb40.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25447df1.css",
+    "static/js/main.74b1ec9a.js"
+  ]
+}
