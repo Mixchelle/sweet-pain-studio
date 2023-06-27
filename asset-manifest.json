@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/sweet-pain-studio/static/css/main.7af96ac1.css",
-    "main.js": "/sweet-pain-studio/static/js/main.5b6b68fd.js",
+    "main.css": "/sweet-pain-studio/static/css/main.5af1ee05.css",
+    "main.js": "/sweet-pain-studio/static/js/main.76133ba3.js",
     "static/js/787.2f27cb40.chunk.js": "/sweet-pain-studio/static/js/787.2f27cb40.chunk.js",
     "static/media/tattoo-3.jpeg": "/sweet-pain-studio/static/media/tattoo-3.fe737998d43d209da1be.jpeg",
     "static/media/tattoo-1.jpeg": "/sweet-pain-studio/static/media/tattoo-1.0bb1bad54eb40f4902e0.jpeg",
@@ -13,12 +13,12 @@
     "static/media/5692282.png": "/sweet-pain-studio/static/media/5692282.dbf34dd5b375748e9c40.png",
     "static/media/art.png": "/sweet-pain-studio/static/media/art.690e94218f4838ecf1df.png",
     "index.html": "/sweet-pain-studio/index.html",
-    "main.7af96ac1.css.map": "/sweet-pain-studio/static/css/main.7af96ac1.css.map",
-    "main.5b6b68fd.js.map": "/sweet-pain-studio/static/js/main.5b6b68fd.js.map",
+    "main.5af1ee05.css.map": "/sweet-pain-studio/static/css/main.5af1ee05.css.map",
+    "main.76133ba3.js.map": "/sweet-pain-studio/static/js/main.76133ba3.js.map",
     "787.2f27cb40.chunk.js.map": "/sweet-pain-studio/static/js/787.2f27cb40.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7af96ac1.css",
-    "static/js/main.5b6b68fd.js"
+    "static/css/main.5af1ee05.css",
+    "static/js/main.76133ba3.js"
   ]
 }
